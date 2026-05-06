@@ -6,3 +6,4 @@ Overview of deployed applications:
 - [Reuzenarbeid](https://tu-delft-heritage.github.io/reuzenarbeid/)
 - [Delta Archive](https://tu-delft-heritage.github.io/delta-archive/)
 - [Rijksdriehoeksmeting](https://tu-delft-heritage.github.io/rijksdriehoeksmeting/)
+- [Gravity Expeditions at Sea](https://tu-delft-heritage.github.io/gravity-expeditions-app/)
